@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - print _putchar
+ * main - Entry point
  * is wrtten by zana
- * Return: 0
+ * Return: 0 (success)
  */
 
 int main(void)
